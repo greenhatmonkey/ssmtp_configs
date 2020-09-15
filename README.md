@@ -1,2 +1,2 @@
 # ssmtp_configs
-Some config files for ssmtp
+its just ssmtp.conf to download and edit with sed for script
