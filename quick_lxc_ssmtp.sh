@@ -35,6 +35,7 @@ fi
 #---------------------------------------------------------------
 function check_warez()
 {
+apt update
 apt install ssmtp -y
 }
 
